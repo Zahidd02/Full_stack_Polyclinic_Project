@@ -1,0 +1,27 @@
+<div>
+  <h2>Patient Details: </h2>
+</div>
+<div style="text-align:right; margin:25px">
+  <label>Patient Name : </label>&nbsp;
+  <input type="text" name="patient" #patient (input)="searchPatientByName(patient.value)"/>
+</div>
+<div class="table-responsive">
+  <table class="table" style="border:5px solid rgba(220,230,242,1);">
+    <tr style="background-color:rgba(220,230,242,1); font-size:15pt">
+      <th style="text-align:center">Patient Id</th>
+      <th style="text-align:center">Name</th>
+      <th style="text-align:center">Age</th>
+      <th style="text-align:center">Gender</th>
+      <th style="text-align:center">Contact Number</th>
+      <th style="text-align:center">Update Age</th>
+    </tr>
+    <tr *ngFor="let patient of filteredPatients" style="background-color:white; font-size:13pt">
+      <td style="text-align:center">{{patient.patientId}}</td>
+      <td style="text-align:center">{{patient.patientName}}</td>
+      <td style="text-align:center">{{patient.age}}</td>
+      <td style="text-align:center">{{patient.gender}}</td>
+      <td style="text-align:center">{{patient.contactNumber}}</td>
+      <td style="text-align:center"><button style="width:65px;" (click)="updatePatientAge(patient)">+</button></td>
+    </tr>
+  </table>
+</div>  

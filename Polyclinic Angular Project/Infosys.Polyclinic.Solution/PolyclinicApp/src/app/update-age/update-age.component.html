@@ -1,0 +1,20 @@
+<div style="text-align:center">
+  <div>
+    &nbsp;
+    <h2>Update age of the Patient: </h2>&nbsp;
+  </div>
+  <form #updateAgeForm="ngForm">
+    <label>Patient ID:</label><br />
+    <input type="text" name="id" value="{{patientId}}" style="text-align:center" readonly /><br />
+
+    <label>Patient Name:</label><br />
+    <input type="text" name="name" value="{{patientName}}" style="text-align:center" readonly /><br />
+
+    <label>New Age:</label><br />
+    <input type="text" name="age" #age style="text-align:center" placeholder="Enter new age" ngModel required/><br />
+  </form><br />
+  <div>
+    <button type="submit" (click)="updatePatientAge(updateAgeForm.value.age)">Submit</button>&nbsp;
+    <button type="reset">Reset</button>
+  </div>
+</div>

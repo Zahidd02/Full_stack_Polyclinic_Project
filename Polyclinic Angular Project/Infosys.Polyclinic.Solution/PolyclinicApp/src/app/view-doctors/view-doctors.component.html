@@ -1,0 +1,24 @@
+<div>
+  <h2>Doctor Details: </h2>
+</div>
+<div style="text-align:right;margin:55px">
+  <label>Specialization required: </label>&nbsp;
+  <input type="text" name="specialization"  (input) = "getDoctorsBySpecialization(specialization.value)" #specialization/>
+</div>
+<div class="table-responsive">
+  <table class="table" style="border:5px solid rgba(220,230,242,1);">
+    <tr style="background-color:rgba(220,230,242,1); font-size:15pt">
+      <th style="text-align:center">DoctorId</th>
+      <th style="text-align:center">Name</th>
+      <th style="text-align:center">Specialization</th>
+      <th style="text-align:center">Fees</th>
+    </tr>
+    <tr *ngFor="let doctor of filteredDoctor" style="background-color:white; font-size:13pt">
+      <td style="text-align:center">{{doctor.doctorId}}</td>
+      <td style="text-align:center">{{doctor.doctorName}}</td>
+      <td style="text-align:center">{{doctor.specialization}}</td>
+      <td style="text-align:center">{{doctor.fees}}</td>
+    </tr>
+  </table>
+</div>
+

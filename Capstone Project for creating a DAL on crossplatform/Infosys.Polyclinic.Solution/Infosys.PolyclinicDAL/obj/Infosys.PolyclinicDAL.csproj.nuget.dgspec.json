@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zahid\\source\\repos\\Capstone Projects\\Capstone Project for creating a DAL on crossplatform\\Infosys.Polyclinic.Solution\\Infosys.PolyclinicDAL\\Infosys.PolyclinicDAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zahid\\source\\repos\\Capstone Projects\\Capstone Project for creating a DAL on crossplatform\\Infosys.Polyclinic.Solution\\Infosys.PolyclinicDAL\\Infosys.PolyclinicDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zahid\\source\\repos\\Capstone Projects\\Capstone Project for creating a DAL on crossplatform\\Infosys.Polyclinic.Solution\\Infosys.PolyclinicDAL\\Infosys.PolyclinicDAL.csproj",
+        "projectName": "Infosys.PolyclinicDAL",
+        "projectPath": "C:\\Users\\zahid\\source\\repos\\Capstone Projects\\Capstone Project for creating a DAL on crossplatform\\Infosys.Polyclinic.Solution\\Infosys.PolyclinicDAL\\Infosys.PolyclinicDAL.csproj",
+        "packagesPath": "C:\\Users\\zahid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zahid\\source\\repos\\Capstone Projects\\Capstone Project for creating a DAL on crossplatform\\Infosys.Polyclinic.Solution\\Infosys.PolyclinicDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PolyclinicApp",
+    "\\PolyclinicApp\\src",
+    "\\PolyclinicApp\\src\\app",
+    "\\PolyclinicApp\\src\\app\\polyclinic-interfaces",
+    "\\PolyclinicApp\\src\\app\\view-appointments",
+    "\\PolyclinicApp\\src\\polyclinic-services",
+    "\\PolyclinicApp\\src\\polyclinic-services\\appointment-service",
+    "\\PolyclinicServices",
+    "\\PolyclinicServices\\Controllers"
+  ],
+  "SelectedNode": "\\PolyclinicApp\\src\\app\\app.routing.ts",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,27 @@
+C:\Users\zahid\source\repos\Capstone Projects\Capstone Project for creating a DAL on crossplatform\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\zahid\source\repos\Capstone Projects\Capstone Project for creating a DAL on crossplatform\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\bin\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.deps.json
+C:\Users\zahid\source\repos\Capstone Projects\Capstone Project for creating a DAL on crossplatform\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\bin\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.runtimeconfig.json
+C:\Users\zahid\source\repos\Capstone Projects\Capstone Project for creating a DAL on crossplatform\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\bin\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\Capstone Projects\Capstone Project for creating a DAL on crossplatform\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\bin\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.dll
+C:\Users\zahid\source\repos\Capstone Projects\Capstone Project for creating a DAL on crossplatform\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\bin\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.pdb
+C:\Users\zahid\source\repos\Capstone Projects\Capstone Project for creating a DAL on crossplatform\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\obj\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\Capstone Projects\Capstone Project for creating a DAL on crossplatform\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\obj\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\Capstone Projects\Capstone Project for creating a DAL on crossplatform\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\obj\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.AssemblyInfo.cs
+C:\Users\zahid\source\repos\Capstone Projects\Capstone Project for creating a DAL on crossplatform\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\obj\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\Capstone Projects\Capstone Project for creating a DAL on crossplatform\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\obj\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.dll
+C:\Users\zahid\source\repos\Capstone Projects\Capstone Project for creating a DAL on crossplatform\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\obj\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.pdb
+C:\Users\zahid\source\repos\Capstone Projects\Capstone Project for creating a DAL on crossplatform\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\obj\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.genruntimeconfig.cache
+C:\Users\zahid\source\repos\Capstone Projects\Polyclinic ASP.NET Project\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\zahid\source\repos\Capstone Projects\Polyclinic ASP.NET Project\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\bin\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.deps.json
+C:\Users\zahid\source\repos\Capstone Projects\Polyclinic ASP.NET Project\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\bin\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.runtimeconfig.json
+C:\Users\zahid\source\repos\Capstone Projects\Polyclinic ASP.NET Project\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\bin\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\Capstone Projects\Polyclinic ASP.NET Project\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\bin\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.dll
+C:\Users\zahid\source\repos\Capstone Projects\Polyclinic ASP.NET Project\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\bin\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.pdb
+C:\Users\zahid\source\repos\Capstone Projects\Polyclinic ASP.NET Project\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\obj\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.csproj.AssemblyReference.cache
+C:\Users\zahid\source\repos\Capstone Projects\Polyclinic ASP.NET Project\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\obj\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\Capstone Projects\Polyclinic ASP.NET Project\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\obj\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\Capstone Projects\Polyclinic ASP.NET Project\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\obj\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.AssemblyInfo.cs
+C:\Users\zahid\source\repos\Capstone Projects\Polyclinic ASP.NET Project\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\obj\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\Capstone Projects\Polyclinic ASP.NET Project\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\obj\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.dll
+C:\Users\zahid\source\repos\Capstone Projects\Polyclinic ASP.NET Project\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\obj\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.pdb
+C:\Users\zahid\source\repos\Capstone Projects\Polyclinic ASP.NET Project\Infosys.Polyclinic.Solution\Infosys.PolyclinicDAL\obj\Debug\netcoreapp3.1\Infosys.PolyclinicDAL.genruntimeconfig.cache

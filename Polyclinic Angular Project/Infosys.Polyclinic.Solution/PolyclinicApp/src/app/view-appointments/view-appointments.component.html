@@ -1,0 +1,23 @@
+<div>
+  <h2>All Appointments Detail: </h2>
+</div>
+<div class="table-responsive">
+  <table class="table" style="border:5px solid rgba(220,230,242,1);">
+    <tr style="background-color:rgba(220,230,242,1); font-size:15pt">
+      <th style="text-align:center">Appointment Number</th>
+      <th style="text-align:center">Doctor</th>
+      <th style="text-align:center">Patient ID</th>
+      <th style="text-align:center">Name of the Patient</th>
+      <th style="text-align:center">Date of Appointment</th>
+      <th style="text-align:center">Cancel Appointment</th>
+    </tr>
+    <tr *ngFor="let appointment of appointments" style="background-color:white; font-size:13pt">
+      <td style="text-align:center">{{appointment.appointmentNo}}</td>
+      <td style="text-align:center">{{appointment.doctorName}}</td>
+      <td style="text-align:center">{{appointment.patientId}}</td>
+      <td style="text-align:center">{{appointment.patientName}}</td>
+      <td style="text-align:center">{{appointment.dateofAppointment | date: 'MMM dd, yyyy'}} </td>
+      <td style="text-align:center" (click)="cancelAnAppointment(appointment.appointmentNo)"><button>Cancel</button></td>
+    </tr>
+  </table>
+</div>
